@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1615792673 source:d:\aiub\computer graphics\code\labtask\main.c
+	<stdio.h>
+	<stdlib.h>
+
